@@ -7,7 +7,7 @@
 
 I am a **machine learning engineer** passionate about **solving problems** using **technologies**. With my experiences in the field computing, I believe technology is the solutions to the most of the problems facing humanity. I am proud to be solving problem and **support problem solvers**. 
 
-<h3 align="center"> Web Developer | Embedded Systems | Machine Learning | Community Dev </h3>
+<h3 align="center"> Machine Learning | Community Dev </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=BreadcrumbsChikodili-Chukwu&label=Profile%20views&color=6805D3&style=flat" alt="Chikodili Chukwu Mary-zita" /></p></h3>
    <div align="center">
