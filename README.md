@@ -14,7 +14,7 @@ I am a **machine learning engineer** passionate about **solving problems** using
 
 <h1>Technical Skills 🛠</h1>
    
-<b>Languages:</b>	JavaScript, Python, C++.
+<b>Languages:</b>	R, Python, C++.
 
 <b>Management:</b>  Leadership, Communication, Critical Thinking, Emotional Intelligence.
 
