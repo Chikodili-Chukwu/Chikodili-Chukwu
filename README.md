@@ -12,7 +12,7 @@ I am a **machine learning engineer** passionate about **solving problems** using
 
 <h3 align="center"> Web Developer | Embedded Systems | Machine Learning | Community Dev </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=BreadcrumbsChikodili-Chukwu&label=Profile%20views&color=6805D3&style=flat" alt="Nathaniel Handan" /></p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=BreadcrumbsChikodili-Chukwu&label=Profile%20views&color=6805D3&style=flat" alt="Chikodili Chukwu Mary-zita" /></p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
@@ -26,26 +26,26 @@ I am a **machine learning engineer** passionate about **solving problems** using
 
 <p align="center"> 
 <!--    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> -->
-   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
+<!--    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" /> -->
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-     <img alt="ROS2" src="https://img.shields.io/badge/ROS2-000000?style=for-the-badge&logo=ros&logoColor=white" />
-     <img alt="Raspberry pi" src="https://img.shields.io/badge/Raspberry_Pi-0078D4?style=for-the-badge&logo=next.js&logoColor=white" />
+<!--    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> -->
+<!--     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> -->
+<!--     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> -->
+<!--      <img alt="ROS2" src="https://img.shields.io/badge/ROS2-000000?style=for-the-badge&logo=ros&logoColor=white" /> -->
+<!--      <img alt="Raspberry pi" src="https://img.shields.io/badge/Raspberry_Pi-0078D4?style=for-the-badge&logo=next.js&logoColor=white" /> -->
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
     <img alt="scikit learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
 <!--     <img alt="Numpy" src="https://img.shields.io/ros/v/iron/?style=for-the-badge&logo=numpy&logoColor=white" /> -->
-<!--     <img alt="Numpy" src="https://img.shields.io/badge/Pytorch?style=for-the-badge&logo=numpy&logoColor=white" /> -->
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy?style=for-the-badge&logo=numpy&logoColor=white" />
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+<!--     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" /> -->
 <!--     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> -->
 <!--     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> -->
     <img alt="BASH" src="https://img.shields.io/badge/Bash-27338e?style=for-the-badge&logo=Bash&logoColor=white" />
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<!--     <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
 <!--     <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /> -->
     <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -65,10 +65,8 @@ I am a **machine learning engineer** passionate about **solving problems** using
 <div align="center">
 
 
-<a  href="https://www.linkedin.com/in/nathaniel-handan-35944b218/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/DeRealHandan" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:handanfoun@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a  href="https://t.me/Mr.robot"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a  href="https://linkedin.com/in/chikodi-chukwu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
    
 </div>   
@@ -76,13 +74,13 @@ I am a **machine learning engineer** passionate about **solving problems** using
 <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=BreadcrumbsChikodili-Chukwu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nathaniel Handan" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BreadcrumbsChikodili-Chukwu&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nathaniel Handan" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=BreadcrumbsChikodili-Chukwu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Chikodili Chukwu Mary-zita" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BreadcrumbsChikodili-Chukwu&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Chikodili Chukwu Mary-zita" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BreadcrumbsChikodili-Chukwu&theme=dark" alt="Nathaniel Handan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BreadcrumbsChikodili-Chukwu&theme=dark" alt="Chikodili Chukwu Mary-zita" /></p>
   </div>
 
  [![BreadcrumbsChikodili-Chukwu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BreadcrumbsChikodili-Chukwu&theme=xcode)](https://github.com/BreadcrumbsChikodili-Chukwu)
