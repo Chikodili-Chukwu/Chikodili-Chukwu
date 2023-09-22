@@ -9,7 +9,7 @@ I am a **machine learning engineer** passionate about **solving problems** using
 
 <h3 align="center"> Machine Learning | Python | Data Analysis & Data Science | Project Management </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=BreadcrumbsChikodili-Chukwu&label=Profile%20views&color=6805D3&style=flat" alt="Chikodili Chukwu Mary-zita" /></p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Chikodili-Chukwu&label=Profile%20views&color=6805D3&style=flat" alt="Chikodili Chukwu Mary-zita" /></p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
@@ -71,18 +71,18 @@ I am a **machine learning engineer** passionate about **solving problems** using
 <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=BreadcrumbsChikodili-Chukwu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Chikodili Chukwu Mary-zita" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BreadcrumbsChikodili-Chukwu&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Chikodili Chukwu Mary-zita" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Chikodili-Chukwu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Chikodili Chukwu Mary-zita" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chikodili-Chukwu&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Chikodili Chukwu Mary-zita" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BreadcrumbsChikodili-Chukwu&theme=dark" alt="Chikodili Chukwu Mary-zita" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chikodili-Chukwu&theme=dark" alt="Chikodili Chukwu Mary-zita" /></p>
   </div>
 
- [![BreadcrumbsChikodili-Chukwu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BreadcrumbsChikodili-Chukwu&theme=xcode)](https://github.com/BreadcrumbsChikodili-Chukwu)
+ [![Chikodili-Chukwu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Chikodili-Chukwu&theme=xcode)](https://github.com/Chikodili-Chukwu)
    
    
 
-[![GitHub followers](https://img.shields.io/github/followers/BreadcrumbsChikodili-Chukwu.svg?style=social&label=Follow)](https://github.com/BreadcrumbsChikodili-Chukwu?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Chikodili-Chukwu.svg?style=social&label=Follow)](https://github.com/Chikodili-Chukwu?tab=followers)
 ![](./prof.gif)
