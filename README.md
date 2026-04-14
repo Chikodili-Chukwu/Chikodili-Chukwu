@@ -3,23 +3,20 @@
 <h1 align="center" >Hey there :wave:, I'm <a href="[https://linkedin.com/in/chikodi-chukwu/](https://linkedin.com/in/chikodi-chukwu/)" target="_blank">Chikodili Chukwu Mary-zita</a></h1>
 <!-- <img width="20%" align="right"   src="./passport-crop.png" > -->
 
-<h1 align="center">About Me⚡</h1>
+<h1 align="center">About Me</h1>
 
-I am a **machine learning engineer** passionate about **solving problems** using **technologies**. With my experiences in the field computing, I believe technology is the solutions to the most of the problems facing humanity. I am proud to be solving problem and **support problem solvers**. 
+ I am a **Tech Project Manager** with solid foundation in **Machine Learning** focused on building impactful user-centered products by incorporating advanced technologies. I leverage my ML background to guide product decisions and contribute to the development of scalable digital solutions.
 
-<h3 align="center"> Machine Learning | Python | Data Analysis & Data Science | Project Management </h3>
+<h3 align="center"> Machine Learning | Data Analysis  | Program Management </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Chikodili-Chukwu&label=Profile%20views&color=6805D3&style=flat" alt="Chikodili Chukwu Mary-zita" /></p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
    
-<b>Languages:</b>	R, Python, C++.
-
 <b>Management:</b>  Leadership, Communication, Critical Thinking, Emotional Intelligence.
 
-<b>Technologies:</b> Git, REST, BASH, Bash Scripting,  AWS, VS Code, Netlify, Express, Arduino,Raspberrypi, ROS2, CorelDraw, MongoDB, MySQL, Heroku, Machine Learning, Deep Neural Network.
-
+<b>Technical Skills:</b> Python, Java, Power BI, SQL, Azure DEVEOPS, GitActions
 
 <p align="center"> 
 <!--    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> -->
