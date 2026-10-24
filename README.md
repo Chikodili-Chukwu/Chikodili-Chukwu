@@ -5,9 +5,9 @@
 
 <h1 align="center">About Me</h1>
 
- I am a **Tech Project Manager** with solid foundation in **Machine Learning** focused on building impactful user-centered products by incorporating advanced technologies. I leverage my ML background to guide product decisions and contribute to the development of scalable digital solutions.
-
-<h3 align="center"> Machine Learning | Data Analysis  | Program Management </h3>
+ I am a **Tech Product Manager** with solid foundation in **Data Science and System Design**. My interests lie in operations strategy, optimization, software engineering, and building data-driven products.
+ 
+<h3 align="center"> Machine Learning | Data Analysis  | Product Management </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Chikodili-Chukwu&label=Profile%20views&color=6805D3&style=flat" alt="Chikodili Chukwu Mary-zita" /></p></h3>
    <div align="center">
